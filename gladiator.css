@@ -1,0 +1,55 @@
+   {
+  border-style: groove;
+  border-color: red;
+  padding: 5%
+}
+body {
+  background-image: url("http://tapestry-assets.s3.amazonaws.com/scbs/0/c/e/0ce7a1d5fc21ccacf1e79de3cd52413e");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#gladiator1 {
+  position: absolute;
+  left: 0px;
+  padding: 0 3.5% 0% 3%;
+  margin: 6%;
+  top: 5%;
+  border-style: ridge;
+  border-width: 1em;
+  border-color: #604020;
+}
+#gladiator2 {
+  position: absolute;
+  right: 0px;
+  padding:0 3.5% 0% 3%;
+  margin: 6%;
+  top: 5%;
+  border-style: ridge;
+  border-width: 1em;
+  border-color: #604020;
+}
+.container-fluid {
+  margin-top: 5;
+}
+
+.gladname {
+  background-color: white;
+  color: green;
+}
+.gladname2 {
+  background-color: white;
+  color: maroon;
+}
+/*.gladiator2{
+  position: relative;
+  right: 70%;
+}*/
+
+/*.Glad_img1{
+position: relative;
+}
+
+.Glad_img2{
+position: relative;
+top: 13em;
+}*/
